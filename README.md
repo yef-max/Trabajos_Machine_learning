@@ -6,7 +6,7 @@ Este repositorio será utilizado para subir los trabajos del CADI.
 1. Samir Alberto Castillo Romero
 2. Sergio Alexander Prieto Castiblanco
 3. Yeferson Andrey Rivas Alonso
-4. William Espinosa
+4. William Andrés Espinosa Fonseca
 
 # Organización del repositorio 
 
